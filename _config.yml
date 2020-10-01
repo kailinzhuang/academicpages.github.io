@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &kailinzhuang
+  username               : kailinzhuang
 facebook:
   username               :
   app_id                 :
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Kailin Zhuang"
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   bio              : ""
   location         : "Berkeley, California"
   employer         :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "kailinzhuang"
   vine             :
   weibo            :
   xing             :
